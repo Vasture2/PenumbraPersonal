@@ -330,12 +330,33 @@
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.31/Rise.json"
         },
         "version": "5.31"
+      },
+      {
+        "jvm": {
+          "path": "jre1.8.0_51.zip",
+          "sha1": "a70b0c7003ff2112fb7bd922b37cad6876d929de",
+          "size": 58251672,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/runtime/jre1.8.0_51.zip"
+        },
+        "jar": {
+          "path": "Rise/5.100 r1/Rise.jar",
+          "sha1": "828145cbdbc6bfc8903b91f02ce8976c28f2b045",
+          "size": 31818554,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.100 r1/Rise.jar"
+        },
+        "json": {
+          "path": "Rise/5.100 r1/Rise.json",
+          "sha1": "null",
+          "size": null,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.100 r1/Rise.json"
+        },
+        "version": "5.100 r1"
       }
     ],
     "name": "Rise",
     "description": "Description coming soon",
     "developed-by": "Alan",
-    "cracked-by": "Princekin \u0026 Paolo V.",
+    "cracked-by": "Vasture",
     "preview-urls": [
       "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview0.jpg",
       "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview1.jpg",
