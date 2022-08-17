@@ -19,10 +19,17 @@
       "version": "5.31"
     }
   ],
+  {
+      "jvm": {
+        "path": "jre1.8.0_51.zip"
+      },
+      "version": "5.100 r1"
+    }
+  ],
   "name": "Rise",
-  "description": "Description coming soon",
+  "description": "Rise Hacked Client",
   "developed-by": "Alan",
-  "cracked-by": "Princekin & Paolo V.",
+  "cracked-by": "Vasture.",
   "preview-urls": [
     "preview0.jpg",
     "preview1.jpg",
